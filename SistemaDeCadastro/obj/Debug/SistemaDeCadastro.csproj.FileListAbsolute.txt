@@ -1,0 +1,8 @@
+C:\Curso\SistemaDeCadastro\SistemaDeCadastro\bin\Debug\SistemaDeCadastro.exe
+C:\Curso\SistemaDeCadastro\SistemaDeCadastro\bin\Debug\SistemaDeCadastro.pdb
+C:\Curso\SistemaDeCadastro\SistemaDeCadastro\obj\Debug\SistemaDeCadastro.Properties.Resources.resources
+C:\Curso\SistemaDeCadastro\SistemaDeCadastro\obj\Debug\SistemaDeCadastro.csproj.GenerateResource.cache
+C:\Curso\SistemaDeCadastro\SistemaDeCadastro\obj\Debug\SistemaDeCadastro.csproj.CoreCompileInputs.cache
+C:\Curso\SistemaDeCadastro\SistemaDeCadastro\obj\Debug\SistemaDeCadastro.exe
+C:\Curso\SistemaDeCadastro\SistemaDeCadastro\obj\Debug\SistemaDeCadastro.pdb
+C:\Curso\SistemaDeCadastro\SistemaDeCadastro\obj\Debug\SistemaDeCadastro.Cadastro.resources
